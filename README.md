@@ -30,6 +30,7 @@ These servers aim to demonstrate MCP features and the TypeScript and Python SDKs
 - **[Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** - Tools to read, search, and manipulate Git repositories
 - **[Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** - Knowledge graph-based persistent memory system
 
+- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with bi-temporal governance, supersession chains, and hash-chain audit. Supports 23 client adapters. ![Python](https://img.shields.io/badge/Python-blue)
 - [MemTether](https://github.com/MemTether/MemTether) - **[MemTether](https://github.com/MemTether/MemTether)** - Cross-client AI memory hub with tamper-evident evidence chain, supersession chains, 23 client adapters. 334 tests.- **[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** - Dynamic and reflective problem-solving through thought sequences
 - **[Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time)** - Time and timezone conversion capabilities
 
